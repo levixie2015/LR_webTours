@@ -1,8 +1,5 @@
-# LR_webTours
+# LR_webTours,LoadRunner+webDriver 测试webTours
 LR11调用java完成自动化测试
-
-# LoadRunner11中java vuser引用jar包
-### LoadRunner+webDriver 测试webTours
 
 	环境准备：
 	1.jdk1.6 32位 ！！！！（最高支持jdk1.6,且必须为32位）
