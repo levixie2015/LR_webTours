@@ -1,5 +1,5 @@
 # LR_webTours
-LR11 java Vuser测试
+LR11调用java完成自动化测试
 
 # LoadRunner11中java vuser引用jar包
 ### LoadRunner+webDriver 测试webTours
