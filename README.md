@@ -1,4 +1,4 @@
-# LR_webTours,LoadRunner+webDriver 测试webTours
+# LoadRunner+webDriver 测试webTours
 LR11调用java完成自动化测试
 
 	环境准备：
