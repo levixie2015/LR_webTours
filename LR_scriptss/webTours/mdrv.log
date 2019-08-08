@@ -1,0 +1,18 @@
+Notify: Found jdk version: 1.6.0.
+Notify: classpath=F:\loadRuner_workspace\Scripts\webTours\;d:\program files (x86)\hp\loadrunner\classes\srv;d:\program files (x86)\hp\loadrunner\classes;D:\Program Files (x86)\Java\jdk1.6.0_30\bin;D:\Program Files (x86)\HP\LoadRunner\classes;F:\loadRuner_workspace\selenium-server-standalone-2.21.0.jar;F:\loadRuner_workspace\LR_webTours.jar;;;;d:\program files (x86)\hp\loadrunner\lib\xstream-1.3.jar;d:\program files (x86)\hp\loadrunner\lib\xpp3-1.1.4c.jar
+Notify: Path=D:\Program Files (x86)\Java\jdk1.6.0_30\jre\bin\client;D:\Program Files (x86)\Java\jdk1.6.0_30\bin;D:\PROGRA~1\HP\LOADRU~1\bin;D:\PROGRA~1\HP\LOADRU~1\bin\gecko;D:\PROGRA~1\HP\LOADRU~1\bin\tulip\bin;D:\PROGRA~1\HP\LOADRU~1\bin;C:\Program Files (x86)\Common Files\NetSarang;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\strawberry\c\bin;C:\strawberry\perl\bin;D:\Program Files\TortoiseSVN\bin;D:\DevTools\nodejs;C:\WINDOWS\System32\OpenSSH\;d:\Program Files\Git\cmd;D:\Program Files\TortoiseGit\bin;d:\Program Files\OpenVPN\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;E:\PythonPoject\Python3.6\Scripts\;E:\PythonPoject\Python3.6\;D:\Program Files\Java\jdk1.8.0_121\bin;D:\Program Files\Java\jdk1.8.0_121\jre\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;E:\lib\dpc;D:\DevTools\nodejs\node_global\;C:\Users\xielw\AppData\Local\Microsoft\WindowsApps;D:\Users\xielw\AppData\Local\NASM;E:\apache-maven\bin;d:\Program Files\Microsoft VS Code\bin;C:\Users\xielw\AppData\Roaming\npm;D:\DevTools\apache-ant-1.9.9\bin;D:\DevTools\Hadoop\hadoop-2.6.5/bin;D:\DevTools\Hadoop\hadoop-2.6.5/sbin;D:\DevTools\spark-1.6.3-bin-hadoop2.6/bin;D:\DevTools\gradle-2.5-all\gradle-2.5\bin;C:\Users\xielw\AppData\Local\Microsoft\WindowsApps;"E:\sofware\Scala\scala-2.12.8\bin;E:\sofware\Scala\scala-2.12.8\jre\bin";;
+Notify: VM Params: .
+Virtual User Script started at : 2019-08-07 20:35:27
+Starting action vuser_init.
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Starting action Actions.
+Error (-17998): Failed to get [param not passed in call] thread TLS entry.
+Error (-17998): Failed to get [param not passed in call] thread TLS entry.
+Ending action Actions.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

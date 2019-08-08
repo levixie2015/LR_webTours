@@ -1,0 +1,24 @@
+F:\loadRuner_workspace\Scripts\webTours\Actions.java:15: 软件包 lw.webTours.lr 不存在
+import lw.webTours.lr.*;
+^
+F:\loadRuner_workspace\Scripts\webTours\Actions.java:35: 找不到符号
+符号： 变量 Login
+位置： 类 Actions
+        WebDriver driver = Login.login(userName, password, httpUrl, driverName, driverPath);
+                           ^
+F:\loadRuner_workspace\Scripts\webTours\Actions.java:38: 找不到符号
+符号： 变量 Login
+位置： 类 Actions
+        Login.bookFlights(driver);
+        ^
+F:\loadRuner_workspace\Scripts\webTours\Actions.java:43: 找不到符号
+符号： 变量 Login
+位置： 类 Actions
+        Login.cancelFlights(driver);
+        ^
+F:\loadRuner_workspace\Scripts\webTours\Actions.java:48: 找不到符号
+符号： 变量 Login
+位置： 类 Actions
+        Login.menu(driver, "SignOff Button");
+        ^
+5 错误
