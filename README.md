@@ -38,7 +38,8 @@ LR11 java Vuser测试
 	import org.openqa.selenium.support.ui.WebDriverWait;
 	import java.io.IOException;
 	import lw.webTours.lr.*;
-
+----------
+LR11调用python完成自动化测试 https://github.com/levixie2015/LR_webTours_pyhon
 
 ----------
 
