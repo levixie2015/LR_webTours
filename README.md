@@ -29,7 +29,16 @@ LR11 java Vuser测试
 	项目LR_webTours导入jar的路径
 	
 	D:\Program Files (x86)\HP\LoadRunner\classes
-	
+### 3. Actions 导入jar包	
+	import org.openqa.selenium.By;
+	import org.openqa.selenium.WebDriver;
+	import org.openqa.selenium.WebElement;
+	import org.openqa.selenium.chrome.ChromeDriver;
+	import org.openqa.selenium.support.ui.ExpectedCondition;
+	import org.openqa.selenium.support.ui.WebDriverWait;
+	import java.io.IOException;
+	import lw.webTours.lr.*;
+
 
 ----------
 
