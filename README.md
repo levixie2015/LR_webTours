@@ -37,7 +37,8 @@ LR11调用java完成自动化测试
 	import lw.webTours.lr.*;
 ----------
 LR11调用python完成自动化测试 https://github.com/levixie2015/LR_webTours_pyhon
-
+----------
+maven版本：https://github.com/levixie2015/LR_webTours_maven
 ----------
 
 github源码（LR_webTours）：
